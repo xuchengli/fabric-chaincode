@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "09V3eE1EhOkdfksyjsH+03c5fQg=",
+			"path": "github.com/ethereum/go-ethereum/crypto/secp256k1",
+			"revision": "0851646e480f3fff0d6cdd900fc1034960b993f0",
+			"revisionTime": "2020-04-09T09:55:32Z"
+		}
+	],
+	"rootPath": "test-1"
+}
